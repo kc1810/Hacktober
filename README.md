@@ -1,3 +1,2 @@
 # Hacktober
-Change1
-Addition for test 2
+Something else changed
